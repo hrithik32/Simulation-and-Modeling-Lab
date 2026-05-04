@@ -1,4 +1,4 @@
-# CSE0611416: Simulation & Modeling Lab
+# CSE413: Simulation & Modeling Lab
 
 Repository for my lab works, assignments, reports, and project related to **Simulation & Modeling Lab**.
 
